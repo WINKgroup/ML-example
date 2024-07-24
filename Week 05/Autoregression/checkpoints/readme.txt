@@ -1,0 +1,1 @@
+Download checkpoints from the Autoregression folder located inside this drive folder: 
